@@ -63,10 +63,7 @@ export default function Announcement() {
               <span>公告</span>
             </div>
             <div style={{ color: 'var(--text)', lineHeight: '1.6', fontSize: '15px' }}>
-              为了增加更多用户方便访问, 新增国内加速地址：<a className="link-button"
-                                                          target="_blank"
-                                                          rel="noopener noreferrer"
-                                                          style={{ color: 'var(--primary)', textDecoration: 'underline', padding: '0 4px', fontWeight: 600 }} href="https://fund.cc.cd/">https://fund.cc.cd/</a>
+           
               <p>v0.1.8 版本更新内容如下：</p>
               <p>1. 重构PC表格界面的实现。</p>
               <p>2. 允许对PC表格列宽拖拽并存储拖拽后的列宽。</p>
